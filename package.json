@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "This is an E-commerce API made using Node.Js & MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PullaTharunkumar/ecommerce-api.git"
+  },
+  "author": "Tharun kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PullaTharunkumar/ecommerce-api/issues"
+  },
+  "homepage": "https://github.com/PullaTharunkumar/ecommerce-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.5"
+  },
+  "type": "module"
+}
